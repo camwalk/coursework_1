@@ -21,7 +21,7 @@ class Dec2Hex
         }
 	else
 	{
-	    System.err.println("Argument" + args[0] + " must be greater than 0.");
+	    System.err.println("Argument must be greater than 0.");
 	{
 
     	char ch[]={'0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F'};
